@@ -178,7 +178,7 @@ npm run dev
 
 ### 后端技术
 - **框架**：Laravel 10
-- **数据库**：MySQL 8
+- **数据库**：Postgre sql
 - **ORM**：Eloquent
 - **用户认证**：Laravel Sanctum
 - **API架构**：RESTful API
